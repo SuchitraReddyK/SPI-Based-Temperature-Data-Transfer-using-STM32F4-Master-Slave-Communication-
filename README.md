@@ -1,1 +1,1 @@
-# SPI-Based-Temperature-Data-Transfer-using-STM32F4-Master-Slave-Communication-
+This project demonstrates SPI communication between SPI1 (Master) and SPI3 (Slave) on the STM32F4 microcontroller using CMSIS register-level programming. The internal temperature sensor data is acquired through ADC and transmitted via SPI.
